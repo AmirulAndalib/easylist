@@ -21145,6 +21145,7 @@
 ||keelsontattva.cyou^
 ||keentiedknives.com^
 ||keepinfit.net^
+||keepingohs.shop^
 ||keepnetfrankly.shop^
 ||keepssalele.shop^
 ||keeptraumatic.com^
@@ -28698,6 +28699,7 @@
 ||parkurl.com^
 ||parledrowth.cyou^
 ||parlordenialrummage.com^
+||parlourclaye.cfd^
 ||parlouroutlayfavor.com^
 ||parloursixty.com^
 ||parochfreezer.cyou^
