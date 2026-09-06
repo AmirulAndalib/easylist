@@ -6792,14 +6792,6 @@
 ##.share-new
 ##.share-newsvine
 ##.share-nl
-##.share-on
-##.share-on-link
-##.share-on-title
-##.share-on-whsp
-##.share-open-button
-##.share-open-modal
-##.share-opera
-##.share-or
 ##.share-pannel
 ##.share-pictures-overlay
 ##.share-pin
